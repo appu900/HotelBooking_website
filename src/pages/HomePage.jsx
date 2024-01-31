@@ -9,7 +9,7 @@ import RoomsCarausalSection from "../components/RoomsCarausalSection";
 import EventSection from "../components/EventSection";
 import NewsLetterSection from "../components/NewsLetterSection";
 import Footer from "../components/Footer";
-import OnScrollRevealComponent from "../animation/Revel";
+
 
 export default function HomePage() {
   return (
